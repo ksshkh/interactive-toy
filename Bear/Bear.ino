@@ -7,7 +7,6 @@ Servo servo2;
 volatile bool motionDetected = false;
 volatile bool timerFlag = false;
 
-const int pirPin = 6;   // Датчик движения на D6
 const int servoPin1 = 7; // Серво 1 на D7
 const int servoPin2 = 8; // Серво 2 на D8
 
@@ -25,9 +24,6 @@ void setup() {
   servo2.attach(servoPin2);
   servo1.write(90);
   servo2.write(90);
-
-  // Настройка пина для датчика движения
-  pinMode(pirPin, INPUT_PULLUP);
 
   attachInterrupt(0, func, FALLING);
 }
