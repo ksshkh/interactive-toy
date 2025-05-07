@@ -47,3 +47,7 @@
 ## Получившийся каркас
 
 ![overflow](./png_for_readme/karkas.jpg)
+
+## Результат
+
+![overflow](./png_for_readme/bear.jpg)
