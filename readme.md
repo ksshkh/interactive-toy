@@ -43,3 +43,7 @@
 4. Сервприводы (2 шт.) Micro servo SG90 9g
 
 ![overflow](./png_for_readme/microserv.jpg)
+
+## Получившийся каркас
+
+![overflow](./png_for_readme/karkas.jpg)
