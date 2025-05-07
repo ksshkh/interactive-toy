@@ -44,6 +44,10 @@
 
 ![overflow](./png_for_readme/microserv.jpg)
 
+## Схема сборки
+
+![overflow](./png_for_readme/shema.jpg)
+
 ## Получившийся каркас
 
 ![overflow](./png_for_readme/karkas.jpg)
